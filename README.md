@@ -8,10 +8,9 @@ Each table is connected to another and illustrates the DVD rental store opperati
 
 ## 📑 Context
 - Apply SQL querying techniques to learn more about the data.
-- Leverage Git commands for version control and effective collaboration.
-- Utilize PostgreSQL database system for managing and interacting with the data.
-- Maintain comprehensive project documentation.
-
+- Make use of Git commands to effectively manage version control.
+- Employ the PostgreSQL database system to interact with data.
+- Ensure thorough and detailed project documentation is maintained.
 
 ## 🎞️ DVD Rental ER Model
 <img width="495" alt="DVD RENTAL" src="https://github.com/olhaloshyna12/dvd.rental.postgresql.project/assets/141049666/74c7d600-a1c7-4e5c-8a1d-77f48a8b3115">
@@ -20,7 +19,7 @@ Each table is connected to another and illustrates the DVD rental store opperati
 - PostgreSQL (Version: 15.3)
 - Git (Version: 2.23.0)
 
-## 📃 DVD Rental Database Tables
+## 🖇️ DVD Rental Database Tables
 There are 15 tables in the DVD Rental database:
 
 - actor – stores actors data including first name and last name.
