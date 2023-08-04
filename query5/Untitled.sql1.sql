@@ -1,0 +1,1 @@
+SELECT get_AMOUNT_count(10,20)
